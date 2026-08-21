@@ -1,0 +1,83 @@
+{
+ "count": 1284,
+ "mean": 78500.0,
+ "results": [
+  {
+   "id": "4831092847",
+   "title": "Développeur Python Senior",
+   "description": "Nous recherchons un développeur Python confirmé pour rejoindre...",
+   "full_description": "<p>Nous recherchons un développeur Python confirmé.</p><ul><li>Django, FastAPI</li><li>PostgreSQL</li></ul>",
+   "created": "2026-08-19T09:14:22Z",
+   "redirect_url": "https://www.adzuna.ch/details/4831092847",
+   "latitude": 46.2044,
+   "longitude": 6.1432,
+   "salary_min": 95000.0,
+   "salary_max": 120000.0,
+   "salary_is_predicted": "0",
+   "contract_type": "permanent",
+   "contract_time": "full_time",
+   "company": {
+    "display_name": "ACME Technologies SA"
+   },
+   "location": {
+    "display_name": "Genève, Genève",
+    "area": [
+     "Suisse",
+     "Genève",
+     "Genève"
+    ]
+   },
+   "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+   },
+   "adref": "abcdef"
+  },
+  {
+   "id": "4831092911",
+   "title": "Chef de projet digital",
+   "description": "Pilotage de projets digitaux.",
+   "created": "2026-08-18T14:02:00Z",
+   "redirect_url": "https://www.adzuna.ch/details/4831092911",
+   "latitude": 47.3769,
+   "longitude": 8.5417,
+   "salary_min": 88000.0,
+   "salary_max": 88000.0,
+   "salary_is_predicted": "1",
+   "contract_time": "part_time",
+   "company": {
+    "display_name": "Digitalis GmbH"
+   },
+   "location": {
+    "display_name": "Zürich",
+    "area": [
+     "Suisse",
+     "Zürich",
+     "Zürich"
+    ]
+   },
+   "category": {
+    "label": "PM Jobs",
+    "tag": "pm-jobs"
+   }
+  },
+  {
+   "id": "4831093000",
+   "title": "Assistant administratif",
+   "description": "Poste polyvalent.",
+   "created": "2026-08-17T08:00:00Z",
+   "redirect_url": "https://www.adzuna.ch/details/4831093000",
+   "company": {
+    "display_name": "Petite Entreprise Sàrl"
+   },
+   "location": {
+    "display_name": "Lausanne",
+    "area": [
+     "Suisse",
+     "Vaud",
+     "Lausanne"
+    ]
+   }
+  }
+ ]
+}
